@@ -1,7 +1,13 @@
 body {
-  padding: 50px;
+
   background-color: #66CCFF;
 }
 p{
   border-bottom: 2px solid green;
+}
+
+
+ul{
+  border-left-color: hotpink;
+
 }
